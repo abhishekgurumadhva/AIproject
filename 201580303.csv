@@ -1,0 +1,32 @@
+,,,,
+,Model Analysis (Website and Threshold Data),,,
+,,,,
+,"Note: [1] = Grade/Class 11, [2] = Grade/Class 12",,,
+,,,,
+,,,,
+Website,"Result (With Threshold, Without Threshold)",Probablity Array Output,Topic ,Designated Class
+https://en.wikipedia.org/wiki/Harappa,Other [1],"array([[0.4785142, 0.5214858]])",Harappa,Grade/Class 12
+https://en.wikipedia.org/wiki/Ancient_Egypt,Other [1],"array([[0.42158324, 0.57841676]])",Ancient Egypt,Grade/Class 11
+https://en.wikipedia.org/wiki/Indian_nationalism,Other [1],"array([[0.47829523, 0.52170477]])",indian nationalism,Grade/Class 12 
+https://en.wikipedia.org/wiki/Blockchain,Class 12 [0],"array([[0.72009516, 0.27990484]])",blockchain,Other
+https://en.wikipedia.org/wiki/Business,Other [0],"array([[0.56817737, 0.43182263]])",business,Other 
+https://www.history.com/topics/american-revolution/american-revolution-history,Class 11 [1],"array([[0.37516694, 0.62483306]])",American war of independence,Grade/Class 11
+https://www.history.com/topics/africa,Other [1],"array([[0.48507113, 0.51492887]])",Arfican history,Grade/CLass 11
+https://www.history.com/topics/european-history/queen-elizabeth,Other [1],"array([[0.42557316, 0.57442684]])",history of queen elizebeth ii,Grade/Class 11
+https://www.britannica.com/biography/Edward-Norton,Class 11 [1],"array([[0.386283, 0.613717]])",edward norton life,Other
+https://www.scu.edu.au/engage/news/latest-news/2020/how-do-bees-make-honey.php,Class 12 [0],"array([[0.62561246, 0.37438754]])",How bees make honey,Other
+https://www.khanacademy.org/humanities/world-history/medieval-times/spread-of-islam/a/the-rise-of-islamic-empires-and-states,Other [1],"array([[0.47498617, 0.52501383]])",rise of islam in arabia ,Grade/Class 11
+https://kids.nationalgeographic.com/history/article/aztec-civilization,Other [1],"array([[0.44721317, 0.55278683]])",aztec empire,Grade/Class 11
+https://www.economist.com/graphic-detail/2023/01/17/a-flurry-of-new-studies-identifies-causes-of-the-industrial-revolution,Class 11 [1],"array([[0.3874587, 0.6125413]])",industrial revoultion causes,Grade/Class 11
+https://www.courthousenews.com/women-of-the-mongolian-steppe-expanded-two-empires-1500-years-apart-study-says/,Other [1],"array([[0.44104572, 0.55895428]])",mongolian empire details,Grade/Class 11
+https://mycbseguide.com/blog/changing-cultural-traditions-class-11-notes-history/,Other [1],"array([[0.43827526, 0.56172474]])",NCERT Grade 11 class notes,Grade/Class 11
+https://www.dailymaverick.co.za/article/2021-03-11-across-the-sahara-to-mali-ibn-battutas-never-ending-trip/,Other [1],"array([[0.45233034, 0.54766966]])",ibn batuta's exlorations,Grade/Class 11
+https://byjus.com/question-answer/congo-was-named-by-europeans-congo-s-dictator-mobuto-later-changed-the-name-of-the/,Other [1],"array([[0.43091517, 0.56908483]])",forum question about congo grade 11,Grade/Class 11
+https://study.com/learn/lesson/ancient-greek-economy-trade-who-did-ancient-greece-trade-with.html,Other [1],"array([[0.48633157, 0.51366843]])",ancient greek trade economies,Grade/Class 11
+https://en.wikipedia.org/wiki/Mahajanapadas,Other [1],"array([[0.44498332, 0.55501668]])",mahajanapadas grade 12,Grade/Class 12 
+https://philoid.com/question/116363-read-the-following-excerpt-carefully-and-answer-the-questions-that-follow-a-prayer-to-agni-here-are-two-verses-from-the-rigveda-,Class 11 [1],"array([[0.39179981, 0.60820019]])",prayer to agni history grade 12 ,Grade/Class 12 
+https://worldpopulationreview.com/country-rankings/olympic-medals-by-country,Other [0],"array([[0.50119478, 0.49880522]])",olympic medals of 2023,Other 
+https://www.learncbse.in/imperial-capital-vijayanagara-cbse-notes-class-12-history/,Other [1],"array([[0.44592325, 0.55407675]])",vijayanagara kingdom cbse notes ,Grade/Class 12 
+https://www.socialscienceandhistory12.com/2020/08/theme-9-xii-kings-and-chronicles-mughal.html,Class 11 [1],"array([[0.34365108, 0.65634892]])",mugal courts school notes ,Grade/Class 12 
+https://www.sciencedirect.com/science/article/pii/S259015672200010X,Class 12 [0],"array([[0.96444667, 0.03555333]])",fabricating parmaceuticals in outer space,Other 
+https://www.jagranjosh.com/general-knowledge/chandrasekhara-venkata-raman-cv-raman-biography-1573042778-1,Other [0],"array([[0.51404258, 0.48595742]])",hisotry of C V Raman ,Other 
